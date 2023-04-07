@@ -1,4 +1,4 @@
-# space_dodger
+# SPACE DODGER
 My first game project using GameMakerStudio 2
 
 CREDIT: Resources by Ponto e Vírgula
