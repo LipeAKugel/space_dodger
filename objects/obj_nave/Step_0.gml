@@ -78,7 +78,7 @@ if alarm[0] > 0 {
 
 // Restart the game if the ship gets destroyed.
 if life <= 0 {
-	room = rm_endroom;
+	room_goto(rm_endroom);
 }
 
 // UPGRADES
